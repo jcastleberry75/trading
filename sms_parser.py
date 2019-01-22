@@ -45,9 +45,3 @@ class Parser:
         stk_sym = find_sym()
         data = (stk_sym, prices_found)
         return data
-
-
-
-
-
-
