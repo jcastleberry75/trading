@@ -95,22 +95,3 @@ class RobinClient:
             f.write(str(order_req.status_code + "\n"))
             f.write(str(order_req.text + "\n"))
         return order_req.text()
-
-
-
-
-
-
-    #     hit = order(session_token, sym_to_trade)
-    #     print(hit)
-    #     logging.info(str(hit))
-    # except:
-    #     print("Order Fail")
-    #     logging.error('########## !!! Order Fail !!! ##########')
-
-#
-# schedule.every(1).second.do(main)
-# while True:
-#     sleep(.100)
-#     schedule.run_pending()
-
