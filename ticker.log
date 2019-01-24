@@ -1,0 +1,42 @@
+2019-01-23 17:09:12,087 Running job Every 2 seconds do watch_price() (last run: [never], next run: 2019-01-23 17:09:12)
+2019-01-23 17:09:12,087 ########## QUOTE CALL FOR BPMX ##########
+2019-01-23 17:09:12,231 SYMBOL: BPMX BID PRICE: 0.110000
+2019-01-23 17:09:14,232 Running job Every 2 seconds do watch_price() (last run: 2019-01-23 17:09:12, next run: 2019-01-23 17:09:14)
+2019-01-23 17:09:14,232 ########## QUOTE CALL FOR BPMX ##########
+2019-01-23 17:09:14,362 SYMBOL: BPMX BID PRICE: 0.110000
+2019-01-23 17:09:16,364 Running job Every 2 seconds do watch_price() (last run: 2019-01-23 17:09:14, next run: 2019-01-23 17:09:16)
+2019-01-23 17:09:16,364 ########## QUOTE CALL FOR BPMX ##########
+2019-01-23 17:09:16,488 SYMBOL: BPMX BID PRICE: 0.110000
+2019-01-23 17:09:18,489 Running job Every 2 seconds do watch_price() (last run: 2019-01-23 17:09:16, next run: 2019-01-23 17:09:18)
+2019-01-23 17:09:18,489 ########## QUOTE CALL FOR BPMX ##########
+2019-01-23 17:09:18,626 SYMBOL: BPMX BID PRICE: 0.110000
+2019-01-23 17:09:20,627 Running job Every 2 seconds do watch_price() (last run: 2019-01-23 17:09:18, next run: 2019-01-23 17:09:20)
+2019-01-23 17:09:20,627 ########## QUOTE CALL FOR BPMX ##########
+2019-01-23 17:09:20,741 SYMBOL: BPMX BID PRICE: 0.110000
+2019-01-23 17:09:22,741 Running job Every 2 seconds do watch_price() (last run: 2019-01-23 17:09:20, next run: 2019-01-23 17:09:22)
+2019-01-23 17:09:22,741 ########## QUOTE CALL FOR BPMX ##########
+2019-01-23 17:09:22,871 SYMBOL: BPMX BID PRICE: 0.110000
+2019-01-23 17:09:24,872 Running job Every 2 seconds do watch_price() (last run: 2019-01-23 17:09:22, next run: 2019-01-23 17:09:24)
+2019-01-23 17:09:24,872 ########## QUOTE CALL FOR BPMX ##########
+2019-01-23 17:09:24,986 SYMBOL: BPMX BID PRICE: 0.110000
+2019-01-23 17:09:26,989 Running job Every 2 seconds do watch_price() (last run: 2019-01-23 17:09:24, next run: 2019-01-23 17:09:26)
+2019-01-23 17:09:26,989 ########## QUOTE CALL FOR BPMX ##########
+2019-01-23 17:09:27,100 SYMBOL: BPMX BID PRICE: 0.110000
+2019-01-23 17:09:29,100 Running job Every 2 seconds do watch_price() (last run: 2019-01-23 17:09:27, next run: 2019-01-23 17:09:29)
+2019-01-23 17:09:29,100 ########## QUOTE CALL FOR BPMX ##########
+2019-01-23 17:09:29,232 SYMBOL: BPMX BID PRICE: 0.110000
+2019-01-23 17:09:31,233 Running job Every 2 seconds do watch_price() (last run: 2019-01-23 17:09:29, next run: 2019-01-23 17:09:31)
+2019-01-23 17:09:31,233 ########## QUOTE CALL FOR BPMX ##########
+2019-01-23 17:09:31,349 SYMBOL: BPMX BID PRICE: 0.110000
+2019-01-23 17:09:33,350 Running job Every 2 seconds do watch_price() (last run: 2019-01-23 17:09:31, next run: 2019-01-23 17:09:33)
+2019-01-23 17:09:33,350 ########## QUOTE CALL FOR BPMX ##########
+2019-01-23 17:09:33,479 SYMBOL: BPMX BID PRICE: 0.110000
+2019-01-23 17:09:35,480 Running job Every 2 seconds do watch_price() (last run: 2019-01-23 17:09:33, next run: 2019-01-23 17:09:35)
+2019-01-23 17:09:35,480 ########## QUOTE CALL FOR BPMX ##########
+2019-01-23 17:09:35,614 SYMBOL: BPMX BID PRICE: 0.110000
+2019-01-23 17:09:37,615 Running job Every 2 seconds do watch_price() (last run: 2019-01-23 17:09:35, next run: 2019-01-23 17:09:37)
+2019-01-23 17:09:37,615 ########## QUOTE CALL FOR BPMX ##########
+2019-01-23 17:09:37,723 SYMBOL: BPMX BID PRICE: 0.110000
+2019-01-23 17:09:39,725 Running job Every 2 seconds do watch_price() (last run: 2019-01-23 17:09:37, next run: 2019-01-23 17:09:39)
+2019-01-23 17:09:39,725 ########## QUOTE CALL FOR BPMX ##########
+2019-01-23 17:09:39,850 SYMBOL: BPMX BID PRICE: 0.110000
