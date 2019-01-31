@@ -8,7 +8,7 @@
 2019-01-23 14:09:47,454 [INFO] (Thread-2)  Incoming MSG content: BioTechBreakouts: Peter's Action Alert Bought BPMX at $0.116 for an overnight swing trade Txt STOP to OptOut
 2019-01-23 14:09:47,454 [INFO] (Thread-2)  No Bad Words in Message
 2019-01-23 14:09:47,456 [INFO] (Thread-2)  Parsed: ('BPMX', ['0.116'])
-2019-01-23 14:09:47,456 [INFO] (Thread-2)  jcastleberry75@outlook.com  Lois@1975!
+
 2019-01-23 14:09:47,459 [DEBUG] (Thread-2)  Starting new HTTPS connection (1): api.robinhood.com:443
 2019-01-23 14:09:47,935 [DEBUG] (Thread-2)  https://api.robinhood.com:443 "POST /oauth2/token/ HTTP/1.1" 200 722
 2019-01-23 14:09:47,936 [INFO] (Thread-2)  ROBINHOOD LOGIN OK
